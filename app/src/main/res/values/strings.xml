@@ -1,3 +1,95 @@
 <resources>
     <string name="app_name">LearningProject</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the
+        item
+    </string>
+
+    <string-array name="place_names">
+        <item>Alhambra</item>
+        <item>Taj Mahal</item>
+        <item>Al-Azhar Mosque</item>
+        <item>Sheikh Zayed Grand Mosque</item>
+        <item>Great Mosque of Djenne</item>
+        <item>Blue Mosque</item>
+        <item>Dome of the Rock</item>
+        <item>Masjid al-Haram</item>
+        <item>Masjid an-Nabawi</item>
+        <item>Quba Mosque</item>
+        <item>Hassan II Mosque</item>
+        <item>Topkapi Palace</item>
+        <item>Fatehpur Sikri</item>
+        <item>Badshahi Mosque</item>
+        <item>Aljaferia Palace</item>
+        <item>Masjid al-Qiblatayn</item>
+        <item>Al-Masjid al-Nabawi</item>
+        <item>Shah Mosque</item>
+        <item>Suleymaniye Mosque</item>
+    </string-array>
+
+    <string-array name="place_country">
+        <item>Spain</item>
+        <item>India</item>
+        <item>Egypt</item>
+        <item>UAE</item>
+        <item>Mali</item>
+        <item>Turkey</item>
+        <item>Palestine</item>
+        <item>Saudi</item>
+        <item>Arabia</item>
+        <item>Morocco</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Saudi Arabia</item>
+        <item>Saudi Arabia</item>
+        <item>Spain</item>
+        <item>Saudi Arabia</item>
+        <item>Saudi Arabia</item>
+        <item>Iran</item>
+        <item>Turkey</item>
+    </string-array>
+
+    <string-array name="place_location">
+
+        <item>Granada</item>
+        <item>Agra</item>
+        <item>Cairo</item>
+        <item>Abu Dhabi</item>
+        <item>Djenné</item>
+        <item>Istanbul</item>
+        <item>Jerusalem</item>
+        <item>Mecca</item>
+        <item>Medina</item>
+        <item>Medina</item>
+        <item>Casablanca</item>
+        <item>Istanbul</item>
+        <item>Uttar Pradesh</item>
+        <item>Lahore</item>
+        <item>Zaragoza</item>
+        <item>Medina</item>
+        <item>Medina</item>
+        <item>Isfahan</item>
+        <item>Istanbul</item>
+
+    </string-array>
+
 </resources>
